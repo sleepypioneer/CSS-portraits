@@ -1,5 +1,11 @@
-# CSS-portraits
+# Making Portraits with CSS
 Workshop for WWC about building cute cartoon portraits with CSS &amp; HTML
+
+Wanting to practice your CSS skills in a creative and interesting way? Looking to understand CSS specificy better? Or just want to have an evening of fun while creating a cute portrait made of code?
+
+This workshop will provide you will the tools inspiration and walk through to getting started with drawing with CSS. Beginner friendly though it will help if you have some familiarity with HTML & CSS, however even if you don't please feel welcome to join.
+
+All you will need to join is a computer with a browser & a https://codepen.io/ account.
 
 ## Inspiration
 
