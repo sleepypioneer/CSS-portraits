@@ -1,6 +1,6 @@
 <img src="/imgs/portratit CSS.JPG" alt="Single Div example one" height="200" />
 
-#  🖌️ Draw CSS with Jess  
+# Draw CSS with Jess  
 
 Workshop for WWC about building cute cartoon portraits with CSS &amp; HTML
 
@@ -12,7 +12,7 @@ All you will need to join is a computer with a browser & a https://codepen.io/ a
 
 ---
 
-## 🖼️ Inspiration 
+### 🖼️ Inspiration 
 
 | [Lynn Fisher](https://a.singlediv.com/)        | [Diana Arianne](http://diana-adrianne.com/)  | [Sascha Tran](https://codepen.io/sashatran/)
 | :-----------------------------------------------------------:| :--------------------------------------------------------:|:---------------------------------------------------------:|
@@ -20,13 +20,13 @@ All you will need to join is a computer with a browser & a https://codepen.io/ a
 
 ---
 
-## Why not make portraits in CSS? 🤔
+### Why not make portraits in CSS? 🤔
 
 * SVGs
 * Time consuming
 * SVGs
 
-## Why make portraits in CSS? 🎨
+### Why make portraits in CSS? 🎨
 
 * It’s fun
 * It helps you understand specificity better
@@ -36,7 +36,7 @@ All you will need to join is a computer with a browser & a https://codepen.io/ a
 
 ---
 
-## Workshop contents
+### Workshop contents
 
 Feel free to work these in order or jump between the sections.
 
@@ -44,7 +44,7 @@ Feel free to work these in order or jump between the sections.
 * [pseudo classes]()
 * [drawing shapes in CSS]()
 
-## Setting up for the workshop
+### Setting up for the workshop
 You can create these drawings in any editor/browser set up but for the convience of not having to install anything for this workshop we will work in Codepen's online editor. You can get a free account here: [https://codepen.io/](https://codepen.io/)
 
 [next up Specificity](/specificity.md)
