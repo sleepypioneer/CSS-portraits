@@ -24,4 +24,7 @@ Again, It’s helpful to think of them as layers.
 * https://css-tricks.com/the-shapes-of-css/
 * https://spyrestudios.com/draw-with-css-using-css-to-draw-elements/
 
-[back to main page](/README.md)       [next up starting your portrait](/starting_your_portrait.md)
+
+⏭️ [next up starting your portrait](/starting_your_portrait.md)  
+  
+🏠 [back to main page](/README.md)  
