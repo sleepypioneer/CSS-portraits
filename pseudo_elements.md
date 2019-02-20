@@ -14,24 +14,6 @@ So in my mind, it would usually look more like this:
 
 With CSS and one element, we are afforded three basic shape types. We can use width and height properties to create squares/rectangles, border-radius to create circles/ellipses, and border to create triangles/trapezoids.
 
-## css shapes
-
-There are others we can create with CSS, but most things can be simplified to some combination of these shapes. And these are the easiest to create and manipulate.
-
-## Multiples of the same shape
-With multiple box-shadows, we can create many versions of the same shape in varying size, color, and blur. Offsetting them on the x- and y-axes gives us almost endless multiples.
-
-multiple box-shadows
-
-`div {  
-    box-shadow: 170px 0 10px yellow,  
-                330px 0 0 -20px blue,  
-                330px 5px 5px -20px black;  
-}`
-
-We can even give our box-shadows box-shadows. Pay attention to the order they are declared. 
-Again, It’s helpful to think of them as layers.
-
 ## Gradients
 
 Gradients can be used to add shading and depth by implying a light source. This makes the simple, flat shapes feel more realistic. 
@@ -46,3 +28,5 @@ https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakch
 ## Resources
 
 Tutorial from Lynne Fisher: [https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/)
+
+[back to main page](/README.md)       [next up drawing shapes with CSS](/drawing_shapes_with_css.md)
