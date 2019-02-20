@@ -30,4 +30,6 @@ https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakch
 
 Tutorial from Lynne Fisher: [https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/)
 
-[back to main page](/README.md)       [next up drawing shapes with CSS](/drawing_shapes_with_css.md)
+⏭️ [next up drawing shapes with CSS](/drawing_shapes_with_css.md)
+
+🏠 [back to main page](/README.md)  
