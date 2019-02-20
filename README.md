@@ -1,6 +1,6 @@
-<img src="/imgs/portratit CSS.JPG" alt="Single Div example one" height="200" />
 
-# Draw CSS with Jess  
+# Draw CSS with Jess  <img src="/imgs/portratit CSS.JPG" alt="Single Div example one" height="200" />
+
 
 Workshop for WWC about building cute cartoon portraits with CSS &amp; HTML
 
