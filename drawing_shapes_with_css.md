@@ -25,6 +25,6 @@ Again, It’s helpful to think of them as layers.
 * https://spyrestudios.com/draw-with-css-using-css-to-draw-elements/
 
 
-⏭️ [next up starting your portrait](/starting_your_portrait.md)  
+⏭️ [Adding shading with gradients](/gradients.md)  
   
 🏠 [back to main page](/README.md)  
