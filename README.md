@@ -51,4 +51,4 @@ Feel free to work these in order or jump between the sections.
 ### Setting up for the workshop
 You can create these drawings in any editor/browser set up but for the convience of not having to install anything for this workshop we will work in Codepen's online editor. You can get a free account here: [https://codepen.io/](https://codepen.io/)
 
-[next up Specificity](/specificity.md)
+⏭️ [next up Specificity](/specificity.md)
