@@ -18,13 +18,15 @@ All you will need to join is a computer with a browser & a https://codepen.io/ a
 | :-----------------------------------------------------------:| :--------------------------------------------------------:|:---------------------------------------------------------:|
 | <img src="/imgs/Screenshot from 2019-02-02 22-47-16.png" alt="Single Div example one" height="200" />| <img src="/imgs/diana-adrianne1.jpg" alt="Diana Adiranne example" height="200" /> | <img src="/imgs/sasha_example.JPG" alt="Diana Adiranne example" height="200" /> |
 
+[How I started drawing in CSS by Sasch Tran](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+
 ---
 
 ### Why not make portraits in CSS? 🤔
 
 * SVGs
 * Time consuming
-* SVGs
+* Not full support for CSS3 (though it does gracefully regresses)
 
 ### Why make portraits in CSS? 🎨
 
@@ -40,9 +42,11 @@ All you will need to join is a computer with a browser & a https://codepen.io/ a
 
 Feel free to work these in order or jump between the sections.
 
-* [specificity]()
-* [pseudo classes]()
-* [drawing shapes in CSS]()
+* [Specificity](/specificity.md)
+* [Pseudo elements](/pseudo_elements.md)
+* [Drawing shapes with CSS](drawing_shapes_with_css.md)
+* [Starting your portrait](/starting_your_portrait.md)
+* [Next steps](/next_steps.md)
 
 ### Setting up for the workshop
 You can create these drawings in any editor/browser set up but for the convience of not having to install anything for this workshop we will work in Codepen's online editor. You can get a free account here: [https://codepen.io/](https://codepen.io/)
