@@ -41,4 +41,7 @@ http://cssspecificity.com/
 https://www.w3schools.com/css/css_specificity.asp
 https://specificity.keegan.st/
 
-[back to main page](/README.md)       [next up pseudo elements](/pseudo_elements.md)
+  
+⏭️ [next up pseudo elements](/pseudo_elements.md)  
+  
+🏠 [back to main page](/README.md)  
