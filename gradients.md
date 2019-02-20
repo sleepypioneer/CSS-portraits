@@ -8,4 +8,7 @@ https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakch
 Resources 📚
 Tutorial from Lynne Fisher: https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/  
   
-⏭️ [next up Specificity](/specificity.md)
+
+⏭️ [Getting started on your portrait](/starting_your_portrait.md)  
+  
+🏠 [back to main page](/README.md)  
