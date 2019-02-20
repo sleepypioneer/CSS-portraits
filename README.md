@@ -45,6 +45,7 @@ Feel free to work these in order or jump between the sections.
 * [Specificity](/specificity.md)
 * [Pseudo elements](/pseudo_elements.md)
 * [Drawing shapes with CSS](drawing_shapes_with_css.md)
+* [Adding shading with gradients](gradients.md)
 * [Starting your portrait](/starting_your_portrait.md)
 * [Next steps](/next_steps.md)
 
