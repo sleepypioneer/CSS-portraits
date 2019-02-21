@@ -1,5 +1,5 @@
 
-# Draw CSS with Jess  <img src="/imgs/portratit CSS.JPG" alt="Single Div example one" height="200" />
+# Draw CSS with Jess  <img src="/imgs/portratit CSS.JPG" alt="@sleepypioneer" height="200" />
 
 
 A workshop made for [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/) about building cute cartoon portraits with CSS &amp; HTML
@@ -9,6 +9,8 @@ A workshop made for [Women Who Code Berlin](https://www.meetup.com/Women-Who-Cod
 This workshop will provide you will the tools inspiration and walk through to getting started with drawing with CSS. Beginner friendly though it will help if you have some familiarity with HTML & CSS, however even if you don't please feel welcome to join.
 
 All you will need to join is a computer with a browser & a https://codepen.io/ account.
+
+Here is an example of what we will be working on: https://codepen.io/sleepypioneer/pen/oEogbK
 
 ---
 
