@@ -1,8 +1,9 @@
 # Pseudo elements
-With one div in the HTML, I actually have three elements to work with because of CSS pseudo classes. 
+With one div in the HTML, we actually have three elements to work with because of CSS pseudo classes. 
 So with div, div:before, and div:after, we can get something like this:
 
-### pseudo elements
+
+ <img src="/imgs/pseudo1.png" alt="Pseudo Elements" height="200" />
 
   `div { background: red; }`  
   `div:before { background: yellow; }`  
@@ -10,26 +11,17 @@ So with div, div:before, and div:after, we can get something like this:
   
   
 It helps to think about these three elements as things that can come in sequence and as three stackable layers. 
-So in my mind, it would usually look more like this:
+So you can imagine it more like this:
 
-With CSS and one element, we are afforded three basic shape types. We can use width and height properties to create squares/rectangles, border-radius to create circles/ellipses, and border to create triangles/trapezoids.
+ <img src="/imgs/pseudo2.png" alt="Pseudo Elements envisioned" height="200" />
+ 
+For each of these pseudo elements we can add styling, including radius and shadows which allows us to create even more shapes from a single `<div>` 🖤
 
-### Gradients
-
-Gradients can be used to add shading and depth by implying a light source. This makes the simple, flat shapes feel more realistic. 
-Combining multiple background-images allows us to use many, layered gradients to achieve more complex shading and even more shapes.
-
-
-
-### Dev Tool
-
-https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakchaahdnkcjkfmccmdik
 
 ### Resources 📚
 
 
 Tutorial from Lynne Fisher: [https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/)
 
-⏭️ [next up drawing shapes with CSS](/drawing_shapes_with_css.md)
-
-🏠 [back to main page](/README.md)  
+| [next up drawing shapes with CSS](/drawing_shapes_with_css.md)|🏠 [back to main page](/README.md)|
+|:-----------------------------------------------: |:-----------------------------------------------: |   
