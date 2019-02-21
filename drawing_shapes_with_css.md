@@ -70,11 +70,11 @@ With multiple box-shadows, we can create many versions of the same shape in vary
 
 <img src="/imgs/multiplyshape.png" alt="Multipy shapes from one" height="200" />
 
-`div {  
-    box-shadow: 170px 0 10px yellow,  
-                330px 0 0 -20px blue,  
-                330px 5px 5px -20px black;  
-}`
+`div {`  
+    `box-shadow: 170px 0 10px yellow,`  
+                `330px 0 0 -20px blue,`  
+                `330px 5px 5px -20px black;`  
+`}`
 
 We can even give our box-shadows box-shadows. <b>Pay attention to the order they are declared.</b> 
 Again, It’s helpful to think of them as layers.
