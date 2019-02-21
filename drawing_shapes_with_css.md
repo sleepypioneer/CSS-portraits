@@ -6,6 +6,7 @@
 
 
 #### Square
+`<div id="square"></div>`  
  ` #square {`  
       `width: 100px;`  
       `height: 100px;`  
@@ -13,6 +14,7 @@
     `}`  
 
 #### Rectangle
+`<div id="rectangle"></div>`  
 `#rectangle {`  
   `width: 200px;`  
   `height: 100px;`  
@@ -20,6 +22,7 @@
 `}`  
 
 #### Circle
+`<div id="circle"></div>`  
 `#circle {`  
   `width: 100px;`  
   `height: 100px;`  
@@ -29,6 +32,7 @@
 
 
 #### Oval
+`<div id="oval"></div>`  
 `#oval {`  
   `width: 200px;`  
   `height: 100px;`  
@@ -37,7 +41,8 @@
 `}`  
 
 #### Triangle
-`#triangle-up {`  
+`<div id="triangle"></div>`  
+`#triangle {`  
   `width: 0;`  
   `height: 0;`  
   `border-left: 50px solid transparent;`  
@@ -47,7 +52,7 @@
 
 
 #### Trapezoid
-
+`<div id="trapezoid"></div>`  
 `#trapezoid {`  
   `border-bottom: 100px solid red;`  
   `border-left: 25px solid transparent;`  
