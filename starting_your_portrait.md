@@ -71,6 +71,8 @@
     `box-shadow: #78B9C1 20px -2px 0 10px;`  
 `}` 
 
+<img src="/imgs/pt1.JPG" alt="Walk through Pt 1" height="200" /> 
+
 #### Part 2: Adding more shapes and building form
 * [Walk through pt. 12](https://codepen.io/sleepypioneer/pen/LqwrEX)
 #### HTML: 
@@ -139,91 +141,89 @@
   `left: 5px;`  
 `}`  
 
+<img src="/imgs/pt2.JPG" alt="Walk through Pt 2" height="200" /> 
 
 #### Part 3: Details
 * [Walk through pt. 3](https://codepen.io/sleepypioneer/pen/NJKbNx)
 
 #### HTML: 
 
-<div id="frame">
-  
-  <div id="head">
-    <div id="neck"></div><!-- neck -->
-    <div id="fringe"></div><!-- fringe -->
-    <div class="hair"></div><!-- hair -->
-    <div class="hair hair2"></div><!-- hair2 -->
-    <div class="hair hair3"></div><!-- hair3 -->
-    <div class="hair hair4"></div><!-- hair4 -->
-    <div class="ears"></div><!-- ears -->
-    <div class="ears rightear"></div><!-- ears -->
-    <div class="eye">
-    </div><!--eyes -->
-    <div class="eye righteye">
-    </div><!--eyes right -->
-    <div id="mouth"></div><!-- mouth -->
-    <div class="nose"></div><!-- nose -->
-  </div><!-- head -->
-  
-  <div id="body"></div><!-- body -->
-  
-  <div id="bodyextension"></div><!-- body -->
-</div>
+`<div id="frame">`  
+  `<div id="head">`  
+    `<div id="neck"></div><!-- neck -->`  
+    `<div id="fringe"></div><!-- fringe -->`  
+    `<div class="hair"></div><!-- hair -->`  
+    `<div class="hair hair2"></div><!-- hair2 -->`  
+    `<div class="hair hair3"></div><!-- hair3 -->`  
+    `<div class="hair hair4"></div><!-- hair4 -->`  
+    `<div class="ears"></div><!-- ears -->`  
+    `<div class="ears rightear"></div><!-- ears -->`  
+    `<div class="eye">`  
+    `</div><!--eyes -->`  
+    `<div class="eye righteye">`  
+    `<div><!--eyes right -->`  
+    `<div id="mouth"></div><!-- mouth -->`  
+    `<div class="nose"></div><!-- nose -->`  
+  `</div><!-- head -->`  
+  `<div id="body"></div><!-- body -->`  
+  `<div id="bodyextension"></div><!-- body -->`  
+`</div>`  
 
 #### CSS:
 
-div.eye {
-    width: 10px;
-    height: 12px;
-    border-radius: 100%;
-    background: #040302;
-    position: relative;
-    top: -244px;
-    left: 20px;
-    z-index: 2;
-}
+`div.eye {`  
+    `width: 10px;`  
+    `height: 12px;`  
+    `border-radius: 100%;`  
+    `background: #040302;`  
+    `position: relative;`  
+    `top: -244px;`  
+    `left: 20px;`  
+    `z-index: 2;`  
+`}`  
 
-div.eye.righteye {
-    top: -256px;
-    left: 68px;
-}
+`div.eye.righteye {`  
+    `top: -256px;`  
+    `left: 68px;`  
+`}`  
 
-div#mouth {
-    background: black;
-    height: 20px;
-    width: 40px;
-    border-bottom-left-radius: 40px;
-    border-bottom-right-radius: 40px;
-    position: relative;
-    top: -300%;
-    left: 31%;
-}
+`div#mouth {`  
+    `background: black;`  
+    `height: 20px;`  
+    `width: 40px;`  
+    `border-bottom-left-radius: 40px;`  
+    `border-bottom-right-radius: 40px;`  
+    `position: relative;`  
+    `top: -300%;`  
+    `left: 31%;`   
+`}`  
 
-div#mouth::before {
-    display: block;
-    background: #c68e66;
-    width: 25px;
-    height: 15px;
-    content: '';
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 60px;
-    position: relative;
-    top: 20%;
-    left: 34%;
-    border-top-left-radius: 40px;
-}
+`div#mouth::before {`  
+    `display: block;`  
+    `background: #c68e66;`  
+    `width: 25px;`  
+    `height: 15px;`  
+    `content: '';`  
+    `border-bottom-left-radius: 20px;`  
+    `border-bottom-right-radius: 60px;`  
+    `position: relative;`  
+    `top: 20%;`  
+    `left: 34%;`  
+    `border-top-left-radius: 40px;`  
+`}`  
 
-.nose {
-    position: relative;
-    top: -348%;
-    left: 45%;
-    border-radius: 80%;
-    height: 8px;
-    width: 12px;
-    background-color: #935D37;
-    border-bottom: #21150c solid 2px;
-} 
+`.nose {`  
+    `position: relative;`  
+    `top: -348%;`  
+    `left: 45%;`  
+    `border-radius: 80%;`  
+    `height: 8px;`  
+    `width: 12px;`  
+    `background-color: #935D37;`  
+    `border-bottom: #21150c solid 2px;`  
+`}`   
 
-
+<img src="/imgs/pt3.JPG" alt="Walk through Pt 3" height="200" /> 
 
 |⏭️ [next steps](/next_steps.md)|🏠 [back to main page](/README.md)|
 |:-----------------------------------------------: |:-----------------------------------------------: |   
