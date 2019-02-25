@@ -29,9 +29,9 @@
 
 Start at 0, add 1000 for style attribute, add 100 for each ID, add 10 for each attribute, class or pseudo-class, add 1 for each element name or pseudo-element.
 
-* A: `h1`
-* B: `#content h1`
-* C: `<div id="content"><h1 style="color: #ffffff">Heading</h1></div>`
+* A: <b> HTML: </b> `<div id="content"><h1>Heading</h1></div>` <b> CSS: </b> `h1`
+* B:<b> HTML: </b> `<div id="content"><h1 style="color: #ffffff">Heading</h1></div>` <b> CSS: </b> `#content h1`
+* C: <b> HTML: </b> `<div id="content"><h1 style="color: #ffffff">Heading</h1></div>`
 
 The specificity of A is 1 (one element)  
 The specificity of B is 101 (one ID reference and one element)  
