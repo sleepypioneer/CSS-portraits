@@ -5,8 +5,8 @@ So with div, div:before, and div:after, we can get something like this:
 
  <img src="/imgs/pseudo1.png" alt="Pseudo Elements" height="200" />
 
-  `div { background: red; }`  
-  `div:before { background: yellow; }`  
+  `div { background: yellow; }`  
+  `div:before { background: red; }`  
   `div:after { background: blue; }`  
   
   
