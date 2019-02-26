@@ -2,6 +2,7 @@
 
 Dev Tool 🛠️  
 * https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakchaahdnkcjkfmccmdik  
+* https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp (colour picker chrome extension)
 
 
 Resources 📚  
